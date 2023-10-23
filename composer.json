@@ -8,6 +8,7 @@
     "require": {
         "php": ">=8.1",
         "oomphinc/composer-installers-extender": "^2.0",
+        "yii2-extensions/queue": "dev-main",
         "yiisoft/yii2": "^2.2",
         "yiisoft/yii2-bootstrap5":"^2.0",
         "yiisoft/yii2-faker":"^2.0"
