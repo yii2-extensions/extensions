@@ -3,14 +3,14 @@
 List extensions for Yii2 branch 2.2.
 
 - yiisoft
-    - [x] [AuthClient](https://github.com/yii2-extensions/authclient) 
-    - [x] [Debug](https://github.com/yii2-extensions/debug)
-    - [x] [Gii](https://github.com/yii2-extensions/gii)
-    - [x] [Httpclient](https://github.com/yii2-extensions/httpclient)
-    - [x] [Imagine](https://github.com/yii2-extensions/imagine)
-    - [x] [Queue](https://github.com/yii2-extensions/queue)
-    - [x] [Redis](https://github.com/yii2-extensions/redis)
-    - [x] [SymfonyMailer](https://github.com/yiisoft/yii2-symfonymailer)
+    - [x] [authclient](https://github.com/yii2-extensions/authclient) 
+    - [x] [debug](https://github.com/yii2-extensions/debug)
+    - [x] [gii](https://github.com/yii2-extensions/gii)
+    - [x] [httpclient](https://github.com/yii2-extensions/httpclient)
+    - [x] [imagine](https://github.com/yii2-extensions/imagine)
+    - [x] [queue](https://github.com/yii2-extensions/queue)
+    - [x] [redis](https://github.com/yii2-extensions/redis)
+    - [x] [symfonymailer](https://github.com/yiisoft/yii2-symfonymailer)
 
 - Templates
     - [x] [app-basic](https://github.com/yii2-extensions/app-basic)
