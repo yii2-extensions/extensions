@@ -2,16 +2,15 @@
 
 List extensions for Yii2 branch 2.2.
 
-- yiisoft
-    - [x] [authclient](https://github.com/yii2-extensions/authclient) 
-    - [x] [debug](https://github.com/yii2-extensions/debug)
-    - [x] [gii](https://github.com/yii2-extensions/gii)
-    - [x] [httpclient](https://github.com/yii2-extensions/httpclient)
-    - [x] [imagine](https://github.com/yii2-extensions/imagine)
-    - [x] [queue](https://github.com/yii2-extensions/queue)
-    - [x] [redis](https://github.com/yii2-extensions/redis)
-    - [x] [symfonymailer](https://github.com/yiisoft/yii2-symfonymailer)
-
-- Templates
-    - [x] [app-basic](https://github.com/yii2-extensions/app-basic)
-    - [x] [app-advanced](https://github.com/yii2-extensions/app-avanced)
+| Extension | Description |                     
+|-----------|-------------|
+| [app-advanced](https://github.com/yii2-extensions/app-avanced) | Advanced application template |
+| [app-basic](https://github.com/yii2-extensions/app-basic) | Basic application template |
+| [asset-bootstrap5](https://github.com/yii2-extensions/asset-bootstrap5) | Bootstrap 5 asset |
+| [asset-popper](https://github.com/yii2-extensions/asset-popper) | Popper asset |
+| [datetime-picker](https://github.com/yii2-extensions/datetime-picker) | Datetime picker widget |
+| [filepond](https://github.com/yii2-extensions/filepond) | Filepond widget |
+| [localeUrls](https://github.com/yii2-extensions/localeurls) | Automatic locale/language management through URLs |
+| [nested-set-behaviors](https://github.com/yii2-extensions/nested-sets-behaviors) | Nested sets behaviors |
+| [selectize](https://github.com/yii2-extensions/selectize) | Selectize widget |
+| [summernote](https://github.com/yii2-extensions/summernote) | Summernote widget |
