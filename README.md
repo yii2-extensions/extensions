@@ -1,6 +1,6 @@
 # extensions
 
-List extensions for Yii2 branch 2.2.
+List extensions for Yii2.
 
 | Extension | Description |                     
 |-----------|-------------|
