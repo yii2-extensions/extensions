@@ -14,3 +14,4 @@ List extensions for Yii2.
 | [nested-set-behaviors](https://github.com/yii2-extensions/nested-sets-behaviors) | Nested sets behaviors |
 | [selectize](https://github.com/yii2-extensions/selectize) | Selectize widget |
 | [summernote](https://github.com/yii2-extensions/summernote) | Summernote widget |
+| [dynamicform](https://github.com/yii2-extensions/dynamicform) | Extension for Making Dynamic Forms |
