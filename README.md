@@ -26,3 +26,4 @@
 |-----------|-------------|
 | [localeUrls](https://github.com/yii2-extensions/localeurls) | Automatic locale/language management through URLs |
 | [nested-set-behaviors](https://github.com/yii2-extensions/nested-sets-behaviors) | Nested sets behaviors |
+| [PostGIS](https://github.com/yii2-extensions/postgis) | Support PostGIS with Yii |
